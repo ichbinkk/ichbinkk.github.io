@@ -49,17 +49,16 @@ Teaching Experiences
 
 Professional Activities
 ======
-- Journal Reviews
+- Journal Reviews  
+\qquad \qquad Journal of Cleaner production  
 
-- - Journal of Cleaner production
+\qquad \qquad Materials Research Express  
 
-- - Materials Research Express
+- Conference Reviews  
 
-- Conference Reviews
+\qquad \qquad MICCAI (2023)  
 
-- - MICCAI (2023)
-
-- - ICCV (2023)
+\qquad \qquad ICCV (2023)
 
 ***
 
