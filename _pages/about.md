@@ -54,3 +54,5 @@ Materials Research Express
 MICCAI
 
 ICCV
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QiEmASDE_NzL_f0065Zm6X9uuI_uJhQtg3YM9NlZnOI"></script>
