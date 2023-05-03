@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-- I am a postdoctoral research fellow at The Hong Kong Polytechnic University. 
-- My research lies at the intersection of artificial intelligence and medical image analysis. 
-- I am dedicated to designing machine learning algorithms for biomedical data analysis, with a primary focus on industrial amd medical images.
+- My research lies at the intersection of artificial intelligence, industrial manufacturing, and medical image analysis. 
 - I obtained my PH.D. degree in Zhejiang University in July 2021. If you are interested in doing research with me, please send me an email.
+- I am a postdoctoral research fellow at The Hong Kong Polytechnic University in the group of Prof. [Jing Qin](https://research.polyu.edu.hk/en/persons/jing-qin).
+
+***
 
 Recent News
 ======
@@ -24,6 +25,7 @@ Recent News
 - [12/2022] Our paper was accepted by *Pattern Recognition* (IF=8.518) titled "A novel DAGAN for synthesizing garment images based on design attribute disentangled representation".
 - [9/2022] Our paper was accepted by *CIRP Journal of Manufacturing Science and Technology* (IF=3.560) titled "Towards support-free design for 3D printing of thin-walled composite based on stratified manufacturability reinforcement".
 
+***
 
 Honors & Awards
 ======
@@ -34,26 +36,32 @@ Honors & Awards
 - Outstanding Graduate Student of Zhejiang University
 - Outstanding Graduate Cadre of Zhejiang University
 
+***
+
 Teaching Experiences
 ======
-- From 2021 to present, co-supervised 2 master students, 4 doctoral students, Biomedical Engineering, Hong Kong Polytechnic University
-- From 2020 to 2021, co-supervised 2 master's students and 3 doctoral students, Zhejiang University, Mechanical Design and Theory
-- Engineering graphics, Fall 2017 at ZJU
-- Engineering graphics, Spring 2017 at ZJU
+- 2021 to present, co-supervised 2 master students, 4 doctoral students, Biomedical Engineering, PolyU
+- 2020 to 2021, co-supervised 2 master's students and 3 doctoral students, Mechanical Design and Theory, ZJU
+- 2017 Fall , Engineering graphics
+- 2017 Spring , Engineering graphics
+
+***
 
 Professional Activities
 ======
 - Journal Reviews
 
-Journal of Cleaner production
+- - Journal of Cleaner production
 
-Materials Research Express
+- - Materials Research Express
 
 - Conference Reviews
 
-MICCAI
+- - MICCAI (2023)
 
-ICCV
+- - ICCV (2023)
+
+***
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QiEmASDE_NzL_f0065Zm6X9uuI_uJhQtg3YM9NlZnOI&cl=ffffff&w=a"></script>
