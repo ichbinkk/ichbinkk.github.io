@@ -55,4 +55,5 @@ MICCAI
 
 ICCV
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QiEmASDE_NzL_f0065Zm6X9uuI_uJhQtg3YM9NlZnOI"></script>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QiEmASDE_NzL_f0065Zm6X9uuI_uJhQtg3YM9NlZnOI&cl=ffffff&w=a"></script>
