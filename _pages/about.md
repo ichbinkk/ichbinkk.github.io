@@ -44,9 +44,13 @@ Teaching Experiences
 Professional Activities
 ======
 - Journal Reviews
+
 Journal of Cleaner production
+
 Materials Research Express
 
 - Conference Reviews
+
 MICCAI
+
 ICCV
