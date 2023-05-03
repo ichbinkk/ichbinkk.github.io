@@ -16,10 +16,10 @@ redirect_from:
 
 Recent News
 ======
+- [3/2023] Our paper was accepted by *BMC Health Services Research* (IF=2.908) titled "The pre-analytical process management status and influencing factors of laboratory test before prescribing antimicrobial in developing country".
 - [1/2023] Our paper was accepted by *Journal of Cleaner production* (IF=11.072) titled "Towards low-budget energy efficiency design in additive manufacturing based on variational scale-aware transformer".
 - [10/2022] Our paper was accepted by *Computers & Industrial Engineering* (IF=7.180) titled "Energy Consumption Modeling and Prediction for Additive Manufacturing based on Multimodal Fusion and Inter-layer Consistency".
 - [5/2022] Our paper was accepted by *Journal of Manufacturing Processes* (IF=5.684) titled "Energy Efficiency Design for Eco-friendly Additive Manufacturing based on Multimodal Attention Fusion".
-- [3/2023] Our paper was accepted by *BMC Health Services Research* (IF=2.908) titled "The pre-analytical process management status and influencing factors of laboratory test before prescribing antimicrobial in developing country".
 - [4/2022] Our paper was accepted by *Measurement* (IF=5.131) titled "Additive Manufacturing Energy Consumption Measurement and Prediction in Fabricating Lattice Structure based on Recallable Multimodal Fusion Network".
 - [10/2021] Our paper was accepted by *International Journal of Advanced Manufacturing Technology* (IF=3.563) titled "Antivibration and energy efficiency design for large stroke additive manufacturing based on dynamic trajectory adaption".
 - [12/2022] Our paper was accepted by *Pattern Recognition* (IF=8.518) titled "A novel DAGAN for synthesizing garment images based on design attribute disentangled representation".
