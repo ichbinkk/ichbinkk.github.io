@@ -16,7 +16,7 @@ redirect_from:
 
 Recent News
 ======
-- [3/2023] Our paper was accepted by *BMC Health Services Research* (IF=2.908) titled "The pre-analytical process management status and influencing factors of laboratory test before prescribing antimicrobial in developing country".
+- [5/2023] Our paper was accepted by *Journal of Manufacturing Systems* (IF=9.498) titled "Contrastive learning-based semantic segmentation for In-situ stratified defect detection in additive manufacturing".
 - [1/2023] Our paper was accepted by *Journal of Cleaner production* (IF=11.072) titled "Towards low-budget energy efficiency design in additive manufacturing based on variational scale-aware transformer".
 - [10/2022] Our paper was accepted by *Computers & Industrial Engineering* (IF=7.180) titled "Energy Consumption Modeling and Prediction for Additive Manufacturing based on Multimodal Fusion and Inter-layer Consistency".
 - [5/2022] Our paper was accepted by *Journal of Manufacturing Processes* (IF=5.684) titled "Energy Efficiency Design for Eco-friendly Additive Manufacturing based on Multimodal Attention Fusion".
