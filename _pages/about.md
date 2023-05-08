@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="RiBcY0q1PruWOVpKN6Lh0swsdZZRzuSeljyLEjDWGs8" />
 ---
 permalink: /
 title: "Biography"
