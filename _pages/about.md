@@ -1,4 +1,5 @@
 ---
+<meta name="google-site-verification" content="RiBcY0q1PruWOVpKN6Lh0swsdZZRzuSeljyLEjDWGs8" />
 permalink: /
 title: "Biography"
 excerpt: "About me"
@@ -7,7 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<meta name="google-site-verification" content="RiBcY0q1PruWOVpKN6Lh0swsdZZRzuSeljyLEjDWGs8" />
 
 - My research lies at the intersection of artificial intelligence, industrial manufacturing, and medical image analysis. 
 - I obtained my PH.D. degree in Zhejiang University in July 2021. If you are interested in doing research with me, please send me an email: kangwang [at] polyu [dot] edu [dot] hk.
