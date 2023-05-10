@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+- I am a postdoctoral research fellow at The Hong Kong Polytechnic University (PolyU) in the group of Prof. [Jing Qin](https://research.polyu.edu.hk/en/persons/jing-qin).
 - My research lies at the intersection of artificial intelligence, industrial manufacturing, and medical image analysis. 
-- I obtained my PH.D. degree in Zhejiang University in July 2021. If you are interested in doing research with me, please send me an email: kangwang [at] polyu [dot] edu [dot] hk.
-- I am a postdoctoral research fellow at The Hong Kong Polytechnic University in the group of Prof. [Jing Qin](https://research.polyu.edu.hk/en/persons/jing-qin).
+- I obtained my PH.D. degree in Zhejiang University (ZJU) in July 2021. If you are interested in doing research with me, please send me an email: kangwang [at] polyu [dot] edu [dot] hk.
 
 ***
 
