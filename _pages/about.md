@@ -16,6 +16,7 @@ redirect_from:
 
 Recent News
 ======
+- [9/2023] Our paper was published by *IEEE Transactions on Industrial Informatics* (IF=12.3) titled "Deep Pattern Matching for Energy Consumption Prediction of Complex Structures in Ecological Additive Manufacturing".
 - [5/2023] Our paper was accepted by *Journal of Manufacturing Systems* (IF=12.1) titled "Contrastive learning-based semantic segmentation for In-situ stratified defect detection in additive manufacturing".
 - [1/2023] Our paper was accepted by *Journal of Cleaner production* (IF=11.1) titled "Towards low-budget energy efficiency design in additive manufacturing based on variational scale-aware transformer".
 - [10/2022] Our paper was accepted by *Computers & Industrial Engineering* (IF=7.9) titled "Energy Consumption Modeling and Prediction for Additive Manufacturing based on Multimodal Fusion and Inter-layer Consistency".
