@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-- I am a postdoctoral research fellow at Nanyang Technological University (NTU).
-- My research lies at the intersection of artificial intelligence, industrial manufacturing, and medical image analysis. 
+- I am a research fellow at Nanyang Technological University (NTU), Singapore.
+- My research lies in industrial artificial intelligence and medical image analysis. 
 - I obtained my PH.D. degree from Zhejiang University (ZJU) in July 2021. If you are interested in doing research with me, please send me an email: ichbinwk [at] gmail [dot] com.
 
 ***
@@ -51,15 +51,9 @@ Teaching Experiences
 Professional Activities
 ======
 - Journal Reviews  
-  - Journal of Cleaner production  
+  - IEEE transactions on medical imaging 
 
-  - Materials Research Express  
-
-- Conference Reviews  
-
-  - MICCAI (2023)  
-
-  - ICCV (2023)
+  - IEEE transactions on automation science and engineering
 
 ***
 
