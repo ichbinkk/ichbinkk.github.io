@@ -8,23 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-- I am a research fellow at Nanyang Technological University (NTU), Singapore.
+- I am a ZJU100  Young Professor at Zhejiang University (ZJU), China.
 - My research lies in industrial artificial intelligence and medical image analysis. 
-- I obtained my PH.D. degree from Zhejiang University (ZJU) in July 2021. If you are interested in doing research with me, please send me an email: ichbinwk [at] gmail [dot] com.
-
-***
-
-Recent News
-======
-- [9/2023] Our paper was published by *IEEE Transactions on Industrial Informatics* (IF=12.3) titled "Deep Pattern Matching for Energy Consumption Prediction of Complex Structures in Ecological Additive Manufacturing".
-- [5/2023] Our paper was accepted by *Journal of Manufacturing Systems* (IF=12.1) titled "Contrastive learning-based semantic segmentation for In-situ stratified defect detection in additive manufacturing".
-- [1/2023] Our paper was accepted by *Journal of Cleaner production* (IF=11.1) titled "Towards low-budget energy efficiency design in additive manufacturing based on variational scale-aware transformer".
-- [10/2022] Our paper was accepted by *Computers & Industrial Engineering* (IF=7.9) titled "Energy Consumption Modeling and Prediction for Additive Manufacturing based on Multimodal Fusion and Inter-layer Consistency".
-- [5/2022] Our paper was accepted by *Journal of Manufacturing Processes* (IF=6.2) titled "Energy Efficiency Design for Eco-friendly Additive Manufacturing based on Multimodal Attention Fusion".
-- [4/2022] Our paper was accepted by *Measurement* (IF=5.6) titled "Additive Manufacturing Energy Consumption Measurement and Prediction in Fabricating Lattice Structure based on Recallable Multimodal Fusion Network".
-- [12/2022] Our paper was accepted by *Pattern Recognition* (IF=8.0) titled "A novel DAGAN for synthesizing garment images based on design attribute disentangled representation".
-- [9/2022] Our paper was accepted by *CIRP Journal of Manufacturing Science and Technology* (IF=4.8) titled "Towards support-free design for 3D printing of thin-walled composite based on stratified manufacturability reinforcement".
-- [10/2021] Our paper was accepted by *International Journal of Advanced Manufacturing Technology* (IF=3.4) titled "Antivibration and energy efficiency design for large stroke additive manufacturing based on dynamic trajectory adaption".
+- I obtained my PH.D. degree from Zhejiang University (ZJU) in July 2021. If you are interested in doing research with me, please send me an email: kang.wang [at] gmail [dot] com.
 
 ***
 
