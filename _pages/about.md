@@ -10,7 +10,7 @@ redirect_from:
 
 - I am a ZJU100  Young Professor at Zhejiang University (ZJU), China.
 - My research lies in industrial artificial intelligence and medical image analysis. 
-- I obtained my PH.D. degree from Zhejiang University (ZJU) in July 2021. If you are interested in doing research with me, please send me an email: kang.wang [at] gmail [dot] com.
+- I obtained my PH.D. degree from Zhejiang University (ZJU) in July 2021. If you are interested in doing research with me, please send me an email: kang.wang [at] zju [dot] edu [dot] cn.
 
 ***
 
